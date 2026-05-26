@@ -146,6 +146,7 @@
   "telemetry.feedback.enabled": false,
   "telemetry.editStats.enabled": false,
   "python.terminal.activateEnvInCurrentTerminal": true,
+  "python.terminal.useEnvFile": true,
   "security.workspace.trust.startupPrompt": "never",
   "security.workspace.trust.banner": "never",
   "security.workspace.trust.enabled": false,
@@ -194,7 +195,8 @@
     },
     "MD050": {
       "style": "asterisk"
-    }
+    },
+    "MD060": false
   },
   "markdownlint.run": "onSave",
   "markdownlint.focusMode": 2,
